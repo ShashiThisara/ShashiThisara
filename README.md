@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Shashini Thisara
-- 👀 I’m interested in Coding, Traveling 
+- 🎓 I'm an undergraduate from University of Colombo School of Computing
+- 👀 I’m interested in Coding, Traveling and Eating 😋
 - 🌱 I’m currently learning HTML , CSS and Javascript
 
 <!---
