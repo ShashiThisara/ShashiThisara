@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ShashiThisara
+- 👋 Hi, I’m Shashini Thisara
 - 👀 I’m interested in Coding, Traveling 
 - 🌱 I’m currently learning HTML , CSS and Javascript
 
