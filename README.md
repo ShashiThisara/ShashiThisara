@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Shashini Thisara
-- <h3 align="center>An undergraduate from University of Colombo School of Computing</h3>
+<h1 align="center">Hi 👋, I'm Shashini Thisara.</h1>
+<h3 align="center">An undergraduate from University of Colombo School of Computing</h3>
 
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashithisara&label=Profile%20views&color=0e75b6&style=flat" alt="shashithisara" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashithisara&label=Profile%20views&color=0e75b6&style=flat" alt="shashithisara" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashithisara" alt="shashithisara" /></a> </p>
 
